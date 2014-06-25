@@ -1,5 +1,6 @@
 if(window.location.href.replace("://", "").indexOf(":") ==-1){
-  }
+   window.location=window.location.hostname + ":8080";
+}
 
 
 $(document).ready(function() {
