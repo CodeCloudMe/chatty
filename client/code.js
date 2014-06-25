@@ -1,3 +1,7 @@
+if(window.location.href.replace("://", "").indexOf(":") ==-1){
+  }
+
+
 $(document).ready(function() {
     
     (function (exports) {
