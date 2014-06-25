@@ -1,5 +1,5 @@
 if(window.location.href.replace("://", "").indexOf(":") ==-1){
-   window.location="http://"+window.location.hostname + ":8080";
+   window.location="http://"+window.location.hostname + ":8000";
 }
 
 
